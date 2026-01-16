@@ -1,38 +1,17 @@
-## Hi there 👋, I'm [Rew/Poomrapee]!
+### Socials
 
-### 🎓 Senior Computer Science Student & Software Tester Intern
+<p align="left"> <a href="https://www.github.com/Daijirew" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.facebook.com/daijirew/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Poomrapee Patum
+========================================================================================================================================
 
-I am currently a senior Computer Science student passionate about **Software Quality Assurance** and **Test Automation**. I love building tools to break things (so we can fix them!) and ensuring software reliability.
+Software Tester
+---------------
 
-Currently, I am an **Automated Software Tester Intern** at **MapPointAsia Logistics Solutions**, focusing on GPS tracking systems and logistics platforms.
+I'm intern Software Tester at MappointAsia Logistic Solution
 
----
+* 🖥️  See my portfolio at [MyPortfolio](http://portfolio-software-tester.vercel.app/)
+* ✉️  You can contact me at [daijirew123@gmail.com](mailto:daijirew123@gmail.com)
 
-### 🛠 Tech Stack & Tools
-
-**Testing & Automation**
-* **E2E / UI Testing:** Playwright (JavaScript/TypeScript), Cypress, Selenium, Robot Framework
-* **Performance / Load Testing:** k6, JMeter, Artillery
-* **Mobile Testing:** Appium
-
-**Programming Languages**
-* **Main:** JavaScript/TypeScript, Python, Golang
-* **Others:** SQL (PostgreSQL, MySQL)
-
-**DevOps & Tools**
-* Docker, Git, GitLab CI/CD, Postman, Supabase
-
----
-
-### 🔭 Current Focus
-* 🌱 Deep diving into **Golang** for Backend development & Testing tools.
-* 🛒 Building a full-stack **E-commerce Mini Project** (Next.js + Go + Supabase).
-* 🇬🇧 Improving my English communication skills for professional environments.
-
----
-
-### 📫 Connect with me
-* **LinkedIn:** [ลิงก์ LinkedIn ของคุณ]
-* **Email:** [อีเมลของคุณ]
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical)
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+</p>
